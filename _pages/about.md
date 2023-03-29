@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Amirreza Kazemi, and I am a graduate research assistant at Simon Fraser University under the supervision of Prof. [Martin Ester](https://sites.google.com/view/esterlab).
+My name is Amirreza Kazemi, and I am a MSc student in Computer Science at Simon Fraser University under the supervision of [Prof. Martin Ester](https://sites.google.com/view/esterlab). 
 
 A data-driven personal website
 ======
