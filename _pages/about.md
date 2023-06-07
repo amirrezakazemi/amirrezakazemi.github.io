@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Amirreza Kazemi, and I am a MSc student in Computer Science at Simon Fraser University under the supervision of [Prof. Martin Ester](https://sites.google.com/view/esterlab). 
+My name is Amirreza Kazemi, MSc student in Computer Science at Simon Fraser University under the supervision of [Prof. Martin Ester](https://sites.google.com/view/esterlab). 
 
 Research Experience
 ======
@@ -16,6 +16,24 @@ Research Experience
 
 Education
 ======
+### [Simon Fraser University](https://www.sfu.ca/)
+British Columbia, Canada
+
+- **Master of Science (M.Sc) in Computing Science**
+  - Advisor: [Prof. Martin Ester](https://sites.google.com/view/esterlab)
+- Dates: September 1, 2021 - present
+
+---
+
+### [Sharif University of Technology](http://www.sharif.ir/home)
+Tehran, Iran
+
+- **Bachelor of Science (B.S.) in Computer Engineering**
+  - Thesis: [Cancer Subgroup Discovery Using Somatic Mutation Profile](TODO)
+  - Advisor: [Prof. Hamid R. Rabiee](http://sina.sharif.edu/~rabiee/)
+
+- Dates: September 23, 2016 - July 21, 2021
+
 
 
 Projects
