@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Amirreza Kazemi, MSc student in Computer Science at Simon Fraser University under the supervision of Prof. Martin Ester (https://sites.google.com/view/esterlab). My research is the intersection of machine learning and causal inference, with a focus on using deep-learning methods for treatment effect estimation. I am also interested in theoretical aspects of reinforcement learning and policy gradient algorithms. 
+My name is Amirreza Kazemi, MSc student in Computer Science at Simon Fraser University under the supervision of Prof. Martin Ester. My research is the intersection of machine learning and causal inference, with a focus on using deep-learning methods for treatment effect estimation. I am also interested in theoretical aspects of reinforcement learning and policy gradient algorithms. 
 
 Research Experience
 ======
@@ -33,10 +33,10 @@ Publications
 *`Adversarially Balanced Representation for Continuous Treatment Effect Estimation`*
 
 - Sharan Vaswani, **Amirreza Kazemi**, Reza Babanezhad, Nicolas Le Roux
-[*`Decision-Aware Actor-Critic with Function Approximation and Theoretical Guarantees`*] https://arxiv.org/abs/2305.15249(https://arxiv.org/abs/2305.15249)
+[`Decision-Aware Actor-Critic with Function Approximation and Theoretical Guarantees`] https://arxiv.org/abs/2305.15249
 
 - Amin Ghareyazi, **Amirreza Kazemi**, Kimia Hamidieh, Maedeh Sadat Tahaei, Hamid R. Rabiee, Hamid Alinejad-Rokny, Iman Dehzangi
-[*`Pan-cancer Integrative Analysis of Whole-genome De novo Somatic Point Mutations Reveals 17 Cancer Types`*](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-022-04840-6)
+[`Pan-cancer Integrative Analysis of Whole-genome De novo Somatic Point Mutations Reveals 17 Cancer Types`](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-022-04840-6)
 (BMC Bioinformatics)
 
 
