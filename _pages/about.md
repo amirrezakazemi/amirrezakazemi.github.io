@@ -46,7 +46,7 @@ Publications
 
 
 Projects
-=======
+----
 
 
 For more info
