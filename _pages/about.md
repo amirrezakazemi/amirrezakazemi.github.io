@@ -8,8 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-My name is Amirreza Kazemi, MSc student in Computer Science at Simon Fraser University under the supervision of Prof. Martin Ester. My research is the intersection of machine learning and causal inference, with a focus on using deep-learning methods for treatment effect estimation. I am also interested in theoretical aspects of reinforcement learning and policy gradient algorithms. 
+<style>
+.left-right-align {
+  text-align: justify;
+}
 
+.left-right-align::after {
+  content: "";
+  display: inline-block;
+  width: 100%;
+}
+</style>
+
+<div class="left-right-align">
+My name is Amirreza Kazemi, MSc student in Computer Science at Simon Fraser University under the supervision of Prof. Martin Ester. My research is the intersection of machine learning and causal inference, with a focus on using deep-learning methods for treatment effect estimation. I am also interested in theoretical aspects of reinforcement learning and policy gradient algorithms. 
+</div>
 Research Experience
 ======
 
