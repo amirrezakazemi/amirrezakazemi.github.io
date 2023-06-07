@@ -14,11 +14,11 @@ My name is Amirreza Kazemi, MSc student in Computer Science at Simon Fraser Univ
 
 
 Research Experience
-======
+=====
 
 
 Education
-======
+=====
 Simon Fraser University, British Columbia, Canada
 - **Master of Science (M.Sc) in Computing Science** 2021-present
   - Advisor: Prof. Martin Ester
@@ -32,7 +32,7 @@ Sharif University of Technology, Tehran, Iran
 
 
 Publications
-======
+=====
 - **Amirreza Kazemi**, Martin Ester,
 *Adversarially Balanced Representation for Continuous Treatment Effect Estimation*
 
