@@ -27,6 +27,20 @@ Education
   - Advisor: [Prof. Hamid R. Rabiee](http://sina.sharif.edu/~rabiee/)
 
 
+Publications
+======
+- **Amirreza Kazemi**, Martin Ester
+*["Adversarially Balanced Representation for Continuous Treatment Effect Estimation"]*
+
+- Sharan Vaswani, **Amirreza Kazemi**, Reza Babanezhad, Nicolas Le Roux
+[*`Decision-Aware Actor-Critic with Function Approximation and Theoretical Guarantees`*] https://arxiv.org/abs/2305.15249(https://arxiv.org/abs/2305.15249)
+
+- Amin Ghareyazi, **Amirreza Kazemi**, Kimia Hamidieh, Maedeh Sadat Tahaei, Hamid R. Rabiee, Hamid Alinejad-Rokny, Iman Dehzangi
+[*`Pan-cancer Integrative Analysis of Whole-genome De novo Somatic Point Mutations Reveals 17 Cancer Types`*](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-022-04840-6)
+(BMC Bioinformatics)
+
+
+
 Projects
 =======
 
