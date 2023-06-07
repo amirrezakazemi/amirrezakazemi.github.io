@@ -18,20 +18,15 @@ Education
 ======
 [Simon Fraser University](https://www.sfu.ca/) British Columbia, Canada
 
-- **Master of Science (M.Sc) in Computing Science**
+- **Master of Science (M.Sc) in Computing Science** 2021-present
   - Advisor: [Prof. Martin Ester](https://sites.google.com/view/esterlab)
-- Dates: September 1, 2021 - present
-
 ---
 
 [Sharif University of Technology](http://www.sharif.ir/home) Tehran, Iran
 
-- **Bachelor of Science (B.S.) in Computer Engineering**
-  - Thesis: [Cancer Subgroup Discovery Using Somatic Mutation Profile](TODO)
+- **Bachelor of Science (B.S.) in Computer Engineering** 2016-2021
+  - Thesis: [Cancer Subgroup Discovery Using Somatic Mutation Profile](https://pubmed.ncbi.nlm.nih.gov/35879674/)
   - Advisor: [Prof. Hamid R. Rabiee](http://sina.sharif.edu/~rabiee/)
-
-- Dates: September 23, 2016 - July 21, 2021
-
 
 
 Projects
