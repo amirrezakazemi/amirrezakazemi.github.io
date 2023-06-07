@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Amirreza Kazemi, MSc student in Computer Science at Simon Fraser University under the supervision of [Prof. Martin Ester](https://sites.google.com/view/esterlab). My research is the intersection of machine learning and causal inference, with a focus on using deep-learning methods for treatment effect estimation. I am also interested in theoretical aspects of reinforcement learning and policy gradient algorithms. 
+My name is Amirreza Kazemi, MSc student in Computer Science at Simon Fraser University under the supervision of Prof. Martin Ester (https://sites.google.com/view/esterlab). My research is the intersection of machine learning and causal inference, with a focus on using deep-learning methods for treatment effect estimation. I am also interested in theoretical aspects of reinforcement learning and policy gradient algorithms. 
 
 Research Experience
 ======
@@ -16,12 +16,12 @@ Research Experience
 
 Education
 ======
-[Simon Fraser University](https://www.sfu.ca/), British Columbia, Canada
+Simon Fraser University(https://www.sfu.ca/), British Columbia, Canada
 - **Master of Science (M.Sc) in Computing Science** 2021-present
-  - Advisor: [Prof. Martin Ester](https://sites.google.com/view/esterlab)
+  - Advisor: Prof. Martin Ester(https://sites.google.com/view/esterlab)
 ------
 
-[Sharif University of Technology](http://www.sharif.ir/home), Tehran, Iran
+Sharif University of Technology(http://www.sharif.ir/home), Tehran, Iran
 - **Bachelor of Science (B.S.) in Computer Engineering** 2016-2021
   - Thesis: [Cancer Subgroup Discovery Using Somatic Mutation Profile](https://pubmed.ncbi.nlm.nih.gov/35879674/)
   - Advisor: [Prof. Hamid R. Rabiee](http://sina.sharif.edu/~rabiee/)
@@ -30,7 +30,7 @@ Education
 Publications
 ======
 - **Amirreza Kazemi**, Martin Ester
-*["Adversarially Balanced Representation for Continuous Treatment Effect Estimation"]*
+*`Adversarially Balanced Representation for Continuous Treatment Effect Estimation`*
 
 - Sharan Vaswani, **Amirreza Kazemi**, Reza Babanezhad, Nicolas Le Roux
 [*`Decision-Aware Actor-Critic with Function Approximation and Theoretical Guarantees`*] https://arxiv.org/abs/2305.15249(https://arxiv.org/abs/2305.15249)
