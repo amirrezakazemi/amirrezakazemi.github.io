@@ -20,14 +20,14 @@ Research Experience
 Education
 ----
 **Master of Science (M.Sc) in Computing Science** at Simon Fraser University
-  - Advisor: Prof. Martin Ester
+  - Supervisor: Prof. Martin Ester
 
 ------
 
-Sharif University of Technology, Tehran, Iran
-**Bachelor of Science (B.S.) in Computer Engineering** 2016-2021
+
+**Bachelor of Science (B.S.) in Computer Engineering** at Sharif University of Technology
   - Thesis: Cancer Subgroup Discovery Using Somatic Mutation Profile
-  - Advisor: Prof. Hamid R. Rabiee
+  - Supervisor: Prof. Hamid R. Rabiee
 
 
 Publications
