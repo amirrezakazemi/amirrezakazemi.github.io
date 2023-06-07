@@ -16,8 +16,7 @@ Research Experience
 
 Education
 ======
-### [Simon Fraser University](https://www.sfu.ca/)
-British Columbia, Canada
+[Simon Fraser University](https://www.sfu.ca/) British Columbia, Canada
 
 - **Master of Science (M.Sc) in Computing Science**
   - Advisor: [Prof. Martin Ester](https://sites.google.com/view/esterlab)
@@ -25,8 +24,7 @@ British Columbia, Canada
 
 ---
 
-### [Sharif University of Technology](http://www.sharif.ir/home)
-Tehran, Iran
+[Sharif University of Technology](http://www.sharif.ir/home) Tehran, Iran
 
 - **Bachelor of Science (B.S.) in Computer Engineering**
   - Thesis: [Cancer Subgroup Discovery Using Somatic Mutation Profile](TODO)
