@@ -19,6 +19,7 @@ Education
 Simon Fraser University, British Columbia, Canada
 - **Master of Science (M.Sc) in Computing Science** 2021-present
   - Advisor: Prof. Martin Ester
+
 ------
 
 Sharif University of Technology, Tehran, Iran
