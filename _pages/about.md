@@ -20,7 +20,7 @@ Education
 
 - **Master of Science (M.Sc) in Computing Science** 2021-present
   - Advisor: [Prof. Martin Ester](https://sites.google.com/view/esterlab)
----
+------
 
 [Sharif University of Technology](http://www.sharif.ir/home) Tehran, Iran
 
