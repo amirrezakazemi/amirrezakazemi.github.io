@@ -20,13 +20,13 @@ Research Experience
 Education
 ----
 Simon Fraser University, British Columbia, Canada
-- **Master of Science (M.Sc) in Computing Science** 2021-present
+**Master of Science (M.Sc) in Computing Science** 2021-present
   - Advisor: Prof. Martin Ester
 
 ------
 
 Sharif University of Technology, Tehran, Iran
-- **Bachelor of Science (B.S.) in Computer Engineering** 2016-2021
+**Bachelor of Science (B.S.) in Computer Engineering** 2016-2021
   - Thesis: Cancer Subgroup Discovery Using Somatic Mutation Profile
   - Advisor: Prof. Hamid R. Rabiee
 
