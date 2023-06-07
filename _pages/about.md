@@ -19,8 +19,7 @@ Research Experience
 
 Education
 ----
-Simon Fraser University, British Columbia, Canada
-**Master of Science (M.Sc) in Computing Science** 2021-present
+**Master of Science (M.Sc) in Computing Science** at Simon Fraser University
   - Advisor: Prof. Martin Ester
 
 ------
