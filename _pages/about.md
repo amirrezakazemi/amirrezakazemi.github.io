@@ -22,6 +22,7 @@ Education
 M.Sc. in Computing Science at Simon Fraser University
   - Thesis: Deep Representation Learning for Treatment Effect Estimation 
   - Supervisor: Prof. Martin Ester
+    
 ------
 
 
