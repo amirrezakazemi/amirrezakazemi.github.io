@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-My name is Amirreza Kazemi, and I am a MSc student in Computer Science at Simon Fraser University under the supervision of [Prof. Martin Ester](https://sites.google.com/view/esterlab). 
+
+My name is Amirreza Kazemi, and I am a Machine Learning Engineer at Huawei, Noah's Ark Lab in Montreal. Prior to that, I obtained my MSc degree from computer science department of [Simon Fraser University](https://www.sfu.ca/) in Vancouver, where I had the opportunity to work with [Prof. Martin Ester](https://sites.google.com/view/esterlab) and [Prof. Sharan Vaswani](https://vaswanis.github.io/). Also, I obtained my BSc from computer engineering department of [Sharif Univerisity](https://en.sharif.edu/) in my home country Iran. My main goal/interest is to build safe AI agenets capable of sequential decision-making under uncertainty. Currently, I am working on reinforcement learning and post-training methods to enhance the accuracy and efficiency of large language models in alignment and reasoning tasks. You can check my [CV](https://drive.google.com/file/d/12QkxYZmeFZeCGgi_pO5qf_PNlDc304KQ/view?usp=sharing) here. Other than AI, I am a cinephile, and I love rock/electronic/experimental music. 
+
+
+<!-- My name is Amirreza Kazemi, and I am a MSc student in Computer Science at Simon Fraser University under the supervision of [Prof. Martin Ester](https://sites.google.com/view/esterlab).  -->
 
 Research Experience
 ======
